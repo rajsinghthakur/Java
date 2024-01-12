@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Inh16",
+            "request": "launch",
+            "mainClass": "Inh16",
+            "projectName": "Assignment2_49e372cd"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BankAc",
+            "request": "launch",
+            "mainClass": "BankAc",
+            "projectName": "Assignment2_49e372cd"
+        },
+        {
+            "type": "java",
+            "name": "Inh5",
+            "request": "launch",
+            "mainClass": "Inh5",
+            "projectName": "Assignment2_49e372cd"
+        },
+        {
+            "type": "java",
+            "name": "Inh6",
+            "request": "launch",
+            "mainClass": "Inh6",
+            "projectName": "Assignment2_49e372cd"
+        },
+        {
+            "type": "java",
+            "name": "Inh7",
+            "request": "launch",
+            "mainClass": "Inh7",
+            "projectName": "Assignment2_49e372cd"
+        },
+        {
+            "type": "java",
+            "name": "Inh8",
+            "request": "launch",
+            "mainClass": "Inh8",
+            "projectName": "Assignment2_49e372cd"
+        }
+    ]
+}

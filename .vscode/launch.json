@@ -1,0 +1,1509 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "A19",
+            "request": "launch",
+            "mainClass": "Array.Assignment1.A19",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "IO1",
+            "request": "launch",
+            "mainClass": "IO1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Method2",
+            "request": "launch",
+            "mainClass": "Method.Method2",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Method1",
+            "request": "launch",
+            "mainClass": "Method.Method1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A3",
+            "request": "launch",
+            "mainClass": "JavaMethod.A3",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A2",
+            "request": "launch",
+            "mainClass": "JavaMethod.A2",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Testmain",
+            "request": "launch",
+            "mainClass": "JavaMethod.Testmain",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "JavaMethod.Test",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "TestMain",
+            "request": "launch",
+            "mainClass": "JavaMethod.TestMain",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A1",
+            "request": "launch",
+            "mainClass": "JavaMethod.A1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "SecondMenimum",
+            "request": "launch",
+            "mainClass": "Array.Assignment4.SecondMenimum",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A6",
+            "request": "launch",
+            "mainClass": "Array.Assignment4.A6",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A6",
+            "request": "launch",
+            "mainClass": "Array.Assignment3.A6",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A9",
+            "request": "launch",
+            "mainClass": "Array.Assignment1.A9",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A5a",
+            "request": "launch",
+            "mainClass": "Array.Assignment3.A5a",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A5",
+            "request": "launch",
+            "mainClass": "Array.Assignment3.A5",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A4",
+            "request": "launch",
+            "mainClass": "Array.Assignment3.A4",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A3",
+            "request": "launch",
+            "mainClass": "Array.Assignment3.A3",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A1",
+            "request": "launch",
+            "mainClass": "Array.Assignment4.A1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A5",
+            "request": "launch",
+            "mainClass": "Array.Assignment4.A5",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A4",
+            "request": "launch",
+            "mainClass": "Array.Assignment4.A4",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A3",
+            "request": "launch",
+            "mainClass": "Array.Assignment4.A3",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A2",
+            "request": "launch",
+            "mainClass": "Array.Assignment4.A2",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A2",
+            "request": "launch",
+            "mainClass": "Array.Assignment3.A2",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A1",
+            "request": "launch",
+            "mainClass": "Array.Assignment3.A1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Ar3",
+            "request": "launch",
+            "mainClass": "Array.Assignment3.Ar3",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Ar1",
+            "request": "launch",
+            "mainClass": "Array.Assignment3.Ar1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Array.Array1.Array1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array.Array1.Array",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P99",
+            "request": "launch",
+            "mainClass": "patternprinting.P99",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "a19",
+            "request": "launch",
+            "mainClass": "ArrayAssignment2.a19",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L21",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L21",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L20",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L20",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L19",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L19",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L18",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L18",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L17",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L17",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L16",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L16",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L15",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L15",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L14",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L14",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L13",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L13",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L12",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L12",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L11",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L11",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L10",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L10",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L9",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L9",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L8",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L8",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L7",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L7",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L6",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L6",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L5",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L5",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L4",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L4",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L3",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L3",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L31",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L31",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L30",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L30",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L32",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L32",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L33",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L33",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L34",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L34",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L35",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L35",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L36",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L36",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L37",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L37",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L38",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L38",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L39",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L39",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L40",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L40",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L45",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L45",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L46",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L46",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L47",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L47",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L48",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L48",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L52",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L52",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L54",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L54",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L55",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L55",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L56",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L56",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L57",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L57",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L58",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L58",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L59",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L59",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L60",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L60",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L61",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L61",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Leapyear10",
+            "request": "launch",
+            "mainClass": "Leapyear10",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L2",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L2",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L1",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "FL18",
+            "request": "launch",
+            "mainClass": "FL18",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "FL12",
+            "request": "launch",
+            "mainClass": "FL12",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "a10",
+            "request": "launch",
+            "mainClass": "ArrayAssignment2.a10",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "a8",
+            "request": "launch",
+            "mainClass": "ArrayAssignment2.a8",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P98",
+            "request": "launch",
+            "mainClass": "patternprinting.P98",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L51",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L51",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L53",
+            "request": "launch",
+            "mainClass": "Loops.assignment2.L53",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "L53",
+            "request": "launch",
+            "mainClass": "L53",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "raj",
+            "request": "launch",
+            "mainClass": "raj",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "AA",
+            "request": "launch",
+            "mainClass": "AA",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Dmart2",
+            "request": "launch",
+            "mainClass": "Dmart2",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "a6",
+            "request": "launch",
+            "mainClass": "ArrayAssignment2.a6",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "a5",
+            "request": "launch",
+            "mainClass": "ArrayAssignment2.a5",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "a4",
+            "request": "launch",
+            "mainClass": "ArrayAssignment2.a4",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "a3",
+            "request": "launch",
+            "mainClass": "ArrayAssignment2.a3",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "a2",
+            "request": "launch",
+            "mainClass": "ArrayAssignment2.a2",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "a1",
+            "request": "launch",
+            "mainClass": "ArrayAssignment2.a1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A19",
+            "request": "launch",
+            "mainClass": "A19",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P97",
+            "request": "launch",
+            "mainClass": "patternprinting.P97",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Arr1",
+            "request": "launch",
+            "mainClass": "Arr1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "a1",
+            "request": "launch",
+            "mainClass": "a1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A18",
+            "request": "launch",
+            "mainClass": "A18",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A17",
+            "request": "launch",
+            "mainClass": "A17",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A16",
+            "request": "launch",
+            "mainClass": "A16",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A15",
+            "request": "launch",
+            "mainClass": "A15",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A14",
+            "request": "launch",
+            "mainClass": "A14",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A13",
+            "request": "launch",
+            "mainClass": "A13",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A12",
+            "request": "launch",
+            "mainClass": "A12",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A11",
+            "request": "launch",
+            "mainClass": "A11",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A10",
+            "request": "launch",
+            "mainClass": "A10",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A9",
+            "request": "launch",
+            "mainClass": "A9",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A8",
+            "request": "launch",
+            "mainClass": "A8",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P96",
+            "request": "launch",
+            "mainClass": "patternprinting.P96",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P95",
+            "request": "launch",
+            "mainClass": "patternprinting.P95",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A7",
+            "request": "launch",
+            "mainClass": "A7",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P6",
+            "request": "launch",
+            "mainClass": "P6",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A5",
+            "request": "launch",
+            "mainClass": "A5",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P82",
+            "request": "launch",
+            "mainClass": "patternprinting.P82",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A4",
+            "request": "launch",
+            "mainClass": "A4",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A3",
+            "request": "launch",
+            "mainClass": "A3",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A2",
+            "request": "launch",
+            "mainClass": "A2",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A1",
+            "request": "launch",
+            "mainClass": "A1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P83",
+            "request": "launch",
+            "mainClass": "patternprinting.P83",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P84",
+            "request": "launch",
+            "mainClass": "patternprinting.P84",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P85",
+            "request": "launch",
+            "mainClass": "patternprinting.P85",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P81",
+            "request": "launch",
+            "mainClass": "patternprinting.P81",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P90",
+            "request": "launch",
+            "mainClass": "patternprinting.P90",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P80",
+            "request": "launch",
+            "mainClass": "patternprinting.P80",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P79",
+            "request": "launch",
+            "mainClass": "patternprinting.P79",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P78",
+            "request": "launch",
+            "mainClass": "patternprinting.P78",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P77",
+            "request": "launch",
+            "mainClass": "patternprinting.P77",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P76",
+            "request": "launch",
+            "mainClass": "patternprinting.P76",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P75",
+            "request": "launch",
+            "mainClass": "patternprinting.P75",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P74",
+            "request": "launch",
+            "mainClass": "patternprinting.P74",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P73",
+            "request": "launch",
+            "mainClass": "patternprinting.P73",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P72",
+            "request": "launch",
+            "mainClass": "patternprinting.P72",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P71",
+            "request": "launch",
+            "mainClass": "patternprinting.P71",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P68",
+            "request": "launch",
+            "mainClass": "patternprinting.P68",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P69",
+            "request": "launch",
+            "mainClass": "patternprinting.P69",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P70",
+            "request": "launch",
+            "mainClass": "patternprinting.P70",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P89",
+            "request": "launch",
+            "mainClass": "patternprinting.P89",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P87",
+            "request": "launch",
+            "mainClass": "patternprinting.P87",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P86",
+            "request": "launch",
+            "mainClass": "patternprinting.P86",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P91",
+            "request": "launch",
+            "mainClass": "patternprinting.P91",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P67",
+            "request": "launch",
+            "mainClass": "patternprinting.P67",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P66",
+            "request": "launch",
+            "mainClass": "patternprinting.P66",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P65",
+            "request": "launch",
+            "mainClass": "patternprinting.P65",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P64",
+            "request": "launch",
+            "mainClass": "patternprinting.P64",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P63",
+            "request": "launch",
+            "mainClass": "patternprinting.P63",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P62",
+            "request": "launch",
+            "mainClass": "patternprinting.P62",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P61",
+            "request": "launch",
+            "mainClass": "patternprinting.P61",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P60",
+            "request": "launch",
+            "mainClass": "patternprinting.P60",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P59",
+            "request": "launch",
+            "mainClass": "patternprinting.P59",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P58",
+            "request": "launch",
+            "mainClass": "patternprinting.P58",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P57",
+            "request": "launch",
+            "mainClass": "patternprinting.P57",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P56",
+            "request": "launch",
+            "mainClass": "patternprinting.P56",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P55",
+            "request": "launch",
+            "mainClass": "patternprinting.P55",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P54",
+            "request": "launch",
+            "mainClass": "patternprinting.P54",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P53",
+            "request": "launch",
+            "mainClass": "patternprinting.P53",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P52",
+            "request": "launch",
+            "mainClass": "patternprinting.P52",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P50",
+            "request": "launch",
+            "mainClass": "patternprinting.P50",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P47",
+            "request": "launch",
+            "mainClass": "patternprinting.P47",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P46",
+            "request": "launch",
+            "mainClass": "patternprinting.P46",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P42",
+            "request": "launch",
+            "mainClass": "patternprinting.P42",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P45",
+            "request": "launch",
+            "mainClass": "patternprinting.P45",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P44",
+            "request": "launch",
+            "mainClass": "patternprinting.P44",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P43",
+            "request": "launch",
+            "mainClass": "patternprinting.P43",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P48",
+            "request": "launch",
+            "mainClass": "patternprinting.P48",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P49",
+            "request": "launch",
+            "mainClass": "patternprinting.P49",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P41",
+            "request": "launch",
+            "mainClass": "patternprinting.P41",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P40",
+            "request": "launch",
+            "mainClass": "patternprinting.P40",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P39",
+            "request": "launch",
+            "mainClass": "patternprinting.P39",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P38",
+            "request": "launch",
+            "mainClass": "patternprinting.P38",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P37",
+            "request": "launch",
+            "mainClass": "patternprinting.P37",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P36",
+            "request": "launch",
+            "mainClass": "patternprinting.P36",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P35",
+            "request": "launch",
+            "mainClass": "patternprinting.P35",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P34",
+            "request": "launch",
+            "mainClass": "patternprinting.P34",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A2",
+            "request": "launch",
+            "mainClass": "Array.A2",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "A1",
+            "request": "launch",
+            "mainClass": "Array.A1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P32",
+            "request": "launch",
+            "mainClass": "patternprinting.P32",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P33",
+            "request": "launch",
+            "mainClass": "patternprinting.P33",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P31",
+            "request": "launch",
+            "mainClass": "patternprinting.P31",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P30",
+            "request": "launch",
+            "mainClass": "patternprinting.P30",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P29",
+            "request": "launch",
+            "mainClass": "patternprinting.P29",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P28",
+            "request": "launch",
+            "mainClass": "patternprinting.P28",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P27",
+            "request": "launch",
+            "mainClass": "patternprinting.P27",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P26",
+            "request": "launch",
+            "mainClass": "patternprinting.P26",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P25",
+            "request": "launch",
+            "mainClass": "patternprinting.P25",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P24",
+            "request": "launch",
+            "mainClass": "patternprinting.P24",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P23",
+            "request": "launch",
+            "mainClass": "patternprinting.P23",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P22",
+            "request": "launch",
+            "mainClass": "patternprinting.P22",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P21",
+            "request": "launch",
+            "mainClass": "patternprinting.P21",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P16",
+            "request": "launch",
+            "mainClass": "patternprinting.P16",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P20",
+            "request": "launch",
+            "mainClass": "patternprinting.P20",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P88",
+            "request": "launch",
+            "mainClass": "patternprinting.P88",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P94",
+            "request": "launch",
+            "mainClass": "patternprinting.P94",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P93",
+            "request": "launch",
+            "mainClass": "patternprinting.P93",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P92",
+            "request": "launch",
+            "mainClass": "patternprinting.P92",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P19",
+            "request": "launch",
+            "mainClass": "patternprinting.P19",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P17",
+            "request": "launch",
+            "mainClass": "patternprinting.P17",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P15",
+            "request": "launch",
+            "mainClass": "patternprinting.P15",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P13",
+            "request": "launch",
+            "mainClass": "patternprinting.P13",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P12",
+            "request": "launch",
+            "mainClass": "patternprinting.P12",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P7",
+            "request": "launch",
+            "mainClass": "patternprinting.P7",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "Pl4",
+            "request": "launch",
+            "mainClass": "patternprinting.Pl4",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P1",
+            "request": "launch",
+            "mainClass": "patternprinting.P1",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P10",
+            "request": "launch",
+            "mainClass": "patternprinting.P10",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P9",
+            "request": "launch",
+            "mainClass": "patternprinting.P9",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P8",
+            "request": "launch",
+            "mainClass": "patternprinting.P8",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P6",
+            "request": "launch",
+            "mainClass": "patternprinting.P6",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P5",
+            "request": "launch",
+            "mainClass": "patternprinting.P5",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P4",
+            "request": "launch",
+            "mainClass": "patternprinting.P4",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P3",
+            "request": "launch",
+            "mainClass": "patternprinting.P3",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "P2",
+            "request": "launch",
+            "mainClass": "patternprinting.P2",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "FL11",
+            "request": "launch",
+            "mainClass": "FL11",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "FL10",
+            "request": "launch",
+            "mainClass": "FL10",
+            "projectName": "ITEP.java_114b0b7b"
+        },
+        {
+            "type": "java",
+            "name": "FL9",
+            "request": "launch",
+            "mainClass": "FL9",
+            "projectName": "ITEP.java_114b0b7b"
+        }
+    ]
+}
